@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohithRajashekar
 - 👀 I’m interested in Sustainability, Automation and environment
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on automation,data analytics and robotics projects
+- 💞️ I’m looking to collaborate on automation, data analytics and robotics projects
 - 📫 Say hello @ mohithrajashekar@gmail.com
 
 <!---
